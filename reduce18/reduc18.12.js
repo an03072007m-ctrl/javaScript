@@ -5,3 +5,4 @@ const sum = nums.reduce((a, c) => {
 }, 0);
 
 console.log(sum);
+        
