@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2970fa0c-576f-46c8-9436-a83bf90d2aed" name="Changes" comment="commit files">
-      <change afterPath="$PROJECT_DIR$/javaScript/funcinoutput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaScript/reduce18/function.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaScript/reduce18/lop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +24,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "an03072007m-ctrl"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/an03072007m-ctrl/javaScript.git",
+    "accountId": "1b24e7b4-d8ff-49d2-bc5f-f0c568191782"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -37,32 +47,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Debug&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Node.js.filter.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.func.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.funcinoutput.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.function.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.loop-test.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.map().js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.neu.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.reduc18.12.js.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/haibui/WebstormProjects/PolJavaScript/javaScript/reduce18&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.html.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.filter.js.executor": "Run",
+    "Node.js.func.js.executor": "Run",
+    "Node.js.funcinoutput.js.executor": "Run",
+    "Node.js.function.js.executor": "Run",
+    "Node.js.loop-test.js.executor": "Run",
+    "Node.js.map().js.executor": "Run",
+    "Node.js.neu.js.executor": "Run",
+    "Node.js.reduc18.12.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/haibui/WebstormProjects/PolJavaScript/javaScript/reduce18",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/javaScript/reduce18" />
@@ -74,13 +84,13 @@
     </key>
   </component>
   <component name="RunManager" selected="Node.js.funcinoutput.js">
+    <configuration name="123.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/javaScript/reduce18/123.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="funcinoutput.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/javaScript/funcinoutput.js" working-dir="$PROJECT_DIR$/javaScript">
       <method v="2" />
     </configuration>
     <configuration name="funcinput.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/funcinput.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="function.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/javaScript/reduce18/function.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="lop.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/javaScript/reduce18/lop.js" working-dir="$PROJECT_DIR$/javaScript/reduce18">
@@ -93,7 +103,7 @@
       <list>
         <item itemvalue="Node.js.funcinoutput.js" />
         <item itemvalue="Node.js.funcinput.js" />
-        <item itemvalue="Node.js.function.js" />
+        <item itemvalue="Node.js.123.js" />
         <item itemvalue="Node.js.lop.js" />
         <item itemvalue="Node.js.neu.js" />
       </list>
@@ -133,6 +143,7 @@
       <workItem from="1768722149893" duration="4073000" />
       <workItem from="1768785340755" duration="3242000" />
       <workItem from="1768811589279" duration="3636000" />
+      <workItem from="1768890825911" duration="171000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
