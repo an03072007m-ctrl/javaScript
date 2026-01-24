@@ -1,2 +1,3 @@
-let names = ["Hai", "Nam", "Linh"];
-console.log(names[0],names[2])
+let arr = [1, 2, 3];
+arr.pop();
+console.log(arr);
