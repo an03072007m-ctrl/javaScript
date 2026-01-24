@@ -5,9 +5,16 @@ let student = {
 };
 student.age = 19
 student.score = 100
+if (student.isPassed ){
+    console.log("pass")
+
+} else{
+    console.log("fail")
+}
 
 
 
 console.log(`Name:${student.name} 
 Score: ${student.score}
-Age: ${student.age}`);
+Age: ${student.age}
+isPassed: ${student.isPassed? "pass" : "fail"}`);
